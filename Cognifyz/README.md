@@ -1,7 +1,7 @@
 # Cognifyz Technologies - Full Stack Development Internship
 
 ## 👨‍💻 Intern Details
-- **Name:** Sureka M
+- **Name:** Kelvin B
 - **Domain:** Full Stack Development
 - **Company:** Cognifyz Technologies
 
